@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <linetype linetype="RGV小车" />
+  <LocalIpAddr CNCLocalIp="10.10.31.8" />
+  <User SUM="5" name="User" password="">
+    <Item0 serial="0" name="操作者" password="" />
+    <Item1 serial="1" name="管理员" password="" />
+    <Item2 serial="2" name="张三" password="" />
+    <Item4 serial="4" name="王五" password="" />
+    <Item5 serial="5" name="吴六" password="-1353h0476n71653c642882-13d5304x75516s53642285-013531047585165364275-135304760165364282-135304759165364284-135304759" />
+  </User>
+  <CNC SUM="13" id="0001" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.99" port="10001" SN="0" EQUIP_CODE="0" remark="">
+    <Item0 serial="0" id="1" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.21" port="10001" SN="J01" EQUIP_CODE="01010105001E01" remark="1" />
+    <Item1 serial="1" id="2" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.22" port="10001" SN="J02" EQUIP_CODE="01010105001E02" remark="2" />
+    <Item2 serial="2" id="3" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.23" port="10001" SN="J03" EQUIP_CODE="01010105001E03" remark="3" />
+    <Item3 serial="3" id="4" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.24" port="10001" SN="J04" EQUIP_CODE="01010105001E04" remark="4" />
+    <Item4 serial="4" id="5" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.25" port="10001" SN="J05" EQUIP_CODE="01010105001E05" remark="5" />
+    <Item5 serial="5" id="6" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.26" port="10001" SN="J06" EQUIP_CODE="01010105001E06" remark="6" />
+    <Item6 serial="6" id="7" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.27" port="10001" SN="J07" EQUIP_CODE="01010105001E07" remark="7" />
+    <Item7 serial="7" id="8" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.28" port="10001" SN="J08" EQUIP_CODE="01010105001E08" remark="8" />
+    <Item8 serial="8" id="9" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.29" port="10001" SN="J09" EQUIP_CODE="01010105001E09" remark="9" />
+    <Item9 serial="9" id="10" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.30" port="10001" SN="J10" EQUIP_CODE="01010105001E10" remark="10" />
+    <Item10 serial="10" id="11" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.31" port="10001" SN="J11" EQUIP_CODE="01010105001E11" remark="11" />
+    <Item11 serial="11" id="12" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.32" port="10001" SN="J12" EQUIP_CODE="01010105001E12" remark="12" />
+    <Item12 serial="12" id="13" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.33" port="10001" SN="J13" EQUIP_CODE="01010105001E13" remark="13" />
+  </CNC>
+  <ROBOT SUM="4" id="0001" workshop="010101" productionline="01010105" type="A" system="hnc81" ip="192.168.1.98" port="10001" SN="0" EQUIP_CODE="0" remark="">
+    <Item0 serial="0" id="1" workshop="010101" productionline="01010105" type="A" system="hnc81" ip="192.168.1.94" port="10001" SN="0" EQUIP_CODE="1" remark="">
+      <X SUM="32" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="0" remark="">
+        <Item0 serial="0" address="0.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item1 serial="1" address="1.0" name="动作1" appear="是" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item2 serial="2" address="2.0" name="动作2" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item3 serial="3" address="3.0" name="动作3" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item4 serial="4" address="4.0" name="动作4" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item5 serial="5" address="5.0" name="动作5" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item6 serial="6" address="6.0" name="动作6" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item7 serial="7" address="7.0" name="动作7" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item8 serial="8" address="8.0" name="动作8" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item9 serial="9" address="9.0" name="动作9" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item10 serial="10" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item11 serial="11" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item12 serial="12" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item13 serial="13" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item14 serial="14" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item15 serial="15" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item16 serial="16" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item17 serial="17" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item18 serial="18" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item19 serial="19" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item20 serial="20" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item21 serial="21" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item22 serial="22" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item23 serial="23" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item24 serial="24" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item25 serial="25" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item26 serial="26" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item27 serial="27" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item28 serial="28" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item29 serial="29" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item30 serial="30" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item31 serial="31" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+      </X>
+      <Y SUM="32" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="0" remark="">
+        <Item0 serial="0" address="0.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item1 serial="1" address="1.0" name="动作1" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item2 serial="2" address="2.0" name="动作2" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item3 serial="3" address="3.0" name="动作3" appear="是" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item4 serial="4" address="4.0" name="动作4" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item5 serial="5" address="5.0" name="动作5" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item6 serial="6" address="6.0" name="动作6" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item7 serial="7" address="7.0" name="动作7" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item8 serial="8" address="8.0" name="动作8" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item9 serial="9" address="9.0" name="动作9" appear="是" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item10 serial="10" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item11 serial="11" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item12 serial="12" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item13 serial="13" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item14 serial="14" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item15 serial="15" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item16 serial="16" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item17 serial="17" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item18 serial="18" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item19 serial="19" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item20 serial="20" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item21 serial="21" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item22 serial="22" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item23 serial="23" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item24 serial="24" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item25 serial="25" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item26 serial="26" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item27 serial="27" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item28 serial="28" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item29 serial="29" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item30 serial="30" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item31 serial="31" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+      </Y>
+    </Item0>
+    <Item1 serial="1" id="2" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.99" port="10001" SN="0" EQUIP_CODE="2" remark="">
+      <X SUM="10" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="0" remark="">
+        <Item0 serial="0" address="30.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item1 serial="1" address="31.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item2 serial="2" address="32.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item3 serial="3" address="33.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item4 serial="4" address="34.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item5 serial="5" address="35.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item6 serial="6" address="36.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item7 serial="7" address="37.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item8 serial="8" address="38.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item9 serial="9" address="39.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+      </X>
+      <Y SUM="10" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="0" remark="">
+        <Item0 serial="0" address="30.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item1 serial="1" address="31.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item2 serial="2" address="32.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item3 serial="3" address="33.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item4 serial="4" address="34.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item5 serial="5" address="35.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item6 serial="6" address="36.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item7 serial="7" address="37.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item8 serial="8" address="38.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item9 serial="9" address="39.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+      </Y>
+    </Item1>
+    <Item2 serial="2" id="3" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.99" port="10001" SN="0" EQUIP_CODE="3" remark="">
+      <X SUM="32" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="0" remark="">
+        <Item0 serial="0" address="1" name="急停&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item1 serial="1" address="2" name="停止&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item2 serial="2" address="3" name="启动&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item3 serial="3" address="4" name="继续&#x0;" appear="是" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item4 serial="4" address="5" name="暂停&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item5 serial="5" address="6" name="回安全位命令&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item6 serial="6" address="7" name="左侧等待命令&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item7 serial="7" address="8" name="右侧等待命令&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item8 serial="8" address="9" name="中间位1命令&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item9 serial="9" address="10" name="皮带线取料命令&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item10 serial="10" address="11" name="皮带线放料命令&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item11 serial="11" address="12" name="皮带线取料盘命令&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item12 serial="12" address="13" name="皮带线放料盘命令&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item13 serial="13" address="14" name="CNC换料命令&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item14 serial="14" address="15" name="清洗料盘取料命令&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item15 serial="15" address="16" name="中间位2命令&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item16 serial="16" address="17" name="清洗机放料命令&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item17 serial="17" address="18" name="清洗机取料命令&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item18 serial="18" address="19" name="清洗料盘放料命令&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item19 serial="19" address="20" name="编码1&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item20 serial="20" address="21" name="编码2&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item21 serial="21" address="22" name="编码3&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item22 serial="22" address="23" name="编码4&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item23 serial="23" address="24" name="编码5&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item24 serial="24" address="25" name="编码6&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item25 serial="25" address="26" name="编码7&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item26 serial="26" address="27" name="编码8&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item27 serial="27" address="28" name="编码9&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item28 serial="28" address="29" name="备用输入1&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item29 serial="29" address="30" name="备用输入2&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item30 serial="30" address="31" name="备用输入3&#x0;" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item31 serial="31" address="32" name="备用输入4" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+      </X>
+      <Y SUM="32" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="0" remark="">
+        <Item0 serial="0" address="0.0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item1 serial="1" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item2 serial="2" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item3 serial="3" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item4 serial="4" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item5 serial="5" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item6 serial="6" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item7 serial="7" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item8 serial="8" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item9 serial="9" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item10 serial="10" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item11 serial="11" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item12 serial="12" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item13 serial="13" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item14 serial="14" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item15 serial="15" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item16 serial="16" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item17 serial="17" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item18 serial="18" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item19 serial="19" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item20 serial="20" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item21 serial="21" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item22 serial="22" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item23 serial="23" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item24 serial="24" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item25 serial="25" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item26 serial="26" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item27 serial="27" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item28 serial="28" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item29 serial="29" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item30 serial="30" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+        <Item31 serial="31" address="0" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="-1" remark="" />
+      </Y>
+    </Item2>
+    <Item3 serial="3" id="4" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.99" port="10001" SN="0" EQUIP_CODE="4" remark="">
+      <X SUM="10" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null">
+        <Item0 serial="0" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item1 serial="1" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item2 serial="2" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item3 serial="3" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item4 serial="4" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item5 serial="5" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item6 serial="6" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item7 serial="7" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item8 serial="8" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item9 serial="9" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+      </X>
+      <Y SUM="10" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null">
+        <Item0 serial="0" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item1 serial="1" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item2 serial="2" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item3 serial="3" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item4 serial="4" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item5 serial="5" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item6 serial="6" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item7 serial="7" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item8 serial="8" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item9 serial="9" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+      </Y>
+    </Item3>
+  </ROBOT>
+  <PLC SUM="1" id="0001" workshop="010101" productionline="01010105" type="A" system="hnc8" ip="192.168.1.99" port="10001" SN="0" EQUIP_CODE="0" remark="2">
+    <Item0 serial="0" id="1" workshop="010101" productionline="01010105" type="A" system="三菱" ip="192.168.5.97" port="10001" SN="0" EQUIP_CODE="010101plc" remark="2">
+      <Buffer SUM="10" address="16-0-3FFF" name="急停" appear="否" EQUIP_CODE="0" ACTION_ID="null" remark="null">
+        <Item0 serial="0" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item1 serial="1" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item2 serial="2" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item3 serial="3" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item4 serial="4" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item5 serial="5" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item6 serial="6" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item7 serial="7" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item8 serial="8" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+        <Item9 serial="9" address="0" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null" />
+      </Buffer>
+      <D SUM="10" address="10-0-32287" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null">
+        <Item0 serial="0" address="0" name="急停" appear="是" EQUIP_CODE="11" ACTION_ID="111" remark="null" />
+        <Item1 serial="1" address="1" name="急停" appear="是" EQUIP_CODE="12" ACTION_ID="121" remark="null" />
+        <Item2 serial="2" address="2" name="急停" appear="是" EQUIP_CODE="13" ACTION_ID="131" remark="null" />
+        <Item3 serial="3" address="3" name="急停" appear="是" EQUIP_CODE="14" ACTION_ID="141" remark="null" />
+        <Item4 serial="4" address="4" name="急停" appear="是" EQUIP_CODE="15" ACTION_ID="151" remark="null" />
+        <Item5 serial="5" address="5" name="急停" appear="是" EQUIP_CODE="16" ACTION_ID="161" remark="null" />
+        <Item6 serial="6" address="6" name="急停" appear="是" EQUIP_CODE="17" ACTION_ID="171" remark="null" />
+        <Item7 serial="7" address="7" name="急停" appear="是" EQUIP_CODE="18" ACTION_ID="181" remark="null" />
+        <Item8 serial="8" address="8" name="急停" appear="是" EQUIP_CODE="19" ACTION_ID="191" remark="null" />
+        <Item9 serial="9" address="9" name="急停" appear="是" EQUIP_CODE="20" ACTION_ID="201" remark="null" />
+      </D>
+      <W SUM="5" address="10-0-1000" name="急停" appear="否" EQUIP_CODE="null" ACTION_ID="null" remark="null">
+        <Item0 serial="0" address="1" name="急停" appear="是" EQUIP_CODE="22" ACTION_ID="221" remark="null" />
+        <Item1 serial="1" address="2" name="急停" appear="是" EQUIP_CODE="23" ACTION_ID="231" remark="null" />
+        <Item2 serial="2" address="3" name="急停" appear="是" EQUIP_CODE="24" ACTION_ID="241" remark="null" />
+        <Item3 serial="3" address="4" name="急停" appear="是" EQUIP_CODE="25" ACTION_ID="251" remark="null" />
+        <Item4 serial="4" address="5" name="急停" appear="是" EQUIP_CODE="26" ACTION_ID="261" remark="null" />
+      </W>
+    </Item0>
+  </PLC>
+  <RFID SUM="23" id="1" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="0" ReadDevice="D" ReadAddressStar="0" ReadAddressSet="8,8,6,2,6,2,6,2,16" WriteDevice="D" WriteAddressStar="0" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="M,0" ip="192.168.1.1" port="10001" remark="">
+    <Item0 serial="0" id="上料带1" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="E01" ReadDevice="R" ReadAddressStar="241,264.0,267.0,270.0" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Read" WriteAddressStar="273.0,273.1,273.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="P1" ip="192.168.5.110" port="8192" remark="01010111EE07" />
+    <Item1 serial="1" id="上料带2" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="E03" ReadDevice="R" ReadAddressStar="242,264.1,267.1,270.1" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Read" WriteAddressStar="274.0,274.1,274.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="P2" ip="192.168.5.110" port="8193" remark="01010111EE27" />
+    <Item2 serial="2" id="上料带3" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="E05" ReadDevice="R" ReadAddressStar="243,264.2,267.2,270.2" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Read" WriteAddressStar="275.0,275.1,275.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="P3" ip="192.168.5.110" port="8194" remark="01010111EE47" />
+    <Item3 serial="3" id="上料带4" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="E07" ReadDevice="R" ReadAddressStar="244,264.3,267.3,270.3" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Read" WriteAddressStar="276.0,276.1,276.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="P4" ip="192.168.5.110" port="8195" remark="01010111EE67" />
+    <Item4 serial="4" id="上料带5" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="E09" ReadDevice="R" ReadAddressStar="245,264.4,267.4,270.4" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Read" WriteAddressStar="277.0,277.1,277.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="P5" ip="192.168.5.110" port="8196" remark="01010111EE87" />
+    <Item5 serial="5" id="上料带6" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="E11" ReadDevice="R" ReadAddressStar="246,264.5,267.5,270.5" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Read" WriteAddressStar="278.0,278.1,278.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="P6" ip="192.168.5.110" port="8197" remark="01010111EE107" />
+    <Item6 serial="6" id="上料带7" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="E13" ReadDevice="R" ReadAddressStar="247,264.6,267.6,270.6" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Read" WriteAddressStar="288.0,288.1,288.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="P7" ip="192.168.5.110" port="8198" remark="01010111EE127" />
+    <Item7 serial="7" id="上料带8" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="E15" ReadDevice="R" ReadAddressStar="248,264.7,267.7,270.7" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Read" WriteAddressStar="289.0,289.1,289.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="P8" ip="192.168.5.110" port="8199" remark="01010111EE147" />
+    <Item8 serial="8" id="上料带9" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="E17" ReadDevice="R" ReadAddressStar="249,265.0,268.0,271.0" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Read" WriteAddressStar="290.0,290.1,290.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="P9" ip="192.168.5.110" port="8200" remark="01010111EE167" />
+    <Item9 serial="9" id="上料带10" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="E19" ReadDevice="R" ReadAddressStar="250,265.1,268.1,271.1" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Read" WriteAddressStar="291.0,291.1,291.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="P10" ip="192.168.5.110" port="8201" remark="01010111EEF187" />
+    <Item10 serial="10" id="上料带11" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="E21" ReadDevice="R" ReadAddressStar="251,265.2,268.2,271.2" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Read" WriteAddressStar="292.0,292.1,292.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="P11" ip="192.168.5.110" port="8202" remark="01010111EE207" />
+    <Item11 serial="11" id="下料带1" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="" ReadDevice="R" ReadAddressStar="253,265.4,268.4,271.4" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Write" WriteAddressStar="294.0,294.1,294.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="" ip="192.168.5.110" port="8204" remark="" />
+    <Item12 serial="12" id="下料带2" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="" ReadDevice="R" ReadAddressStar="254,265.5,268.5,271.5" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Write" WriteAddressStar="295.0,295.1,295.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="" ip="192.168.5.110" port="8205" remark="" />
+    <Item13 serial="13" id="下料带3" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="" ReadDevice="R" ReadAddressStar="255,265.6,268.6,271.6" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Write" WriteAddressStar="296.0,296.1,296.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="" ip="192.168.5.110" port="8206" remark="" />
+    <Item14 serial="14" id="下料带4" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="" ReadDevice="R" ReadAddressStar="256,265.7,268.7,271.7" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Write" WriteAddressStar="297.0,297.1,297.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="" ip="192.168.5.110" port="8207" remark="" />
+    <Item15 serial="15" id="下料带5" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="" ReadDevice="R" ReadAddressStar="257,266.0,269.0,272.0" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Write" WriteAddressStar="298.0,298.1,298.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="" ip="192.168.5.111" port="8208" remark="" />
+    <Item16 serial="16" id="下料带6" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="" ReadDevice="R" ReadAddressStar="258,266.1,269.1,272.1" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Write" WriteAddressStar="299.0,299.1,299.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="" ip="192.168.5.111" port="8209" remark="" />
+    <Item17 serial="17" id="下料带7" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="" ReadDevice="R" ReadAddressStar="259,266.2,269.2,272.2" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Write" WriteAddressStar="307.0,307.1,307.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="" ip="192.168.5.111" port="8210" remark="" />
+    <Item18 serial="18" id="下料带8" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="" ReadDevice="R" ReadAddressStar="260,266.3,269.3,272.3" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Write" WriteAddressStar="308.0,308.1,308.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="" ip="192.168.5.111" port="8211" remark="" />
+    <Item19 serial="19" id="下料带9" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="" ReadDevice="R" ReadAddressStar="261,266.4,269.4,272.4" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Write" WriteAddressStar="309.0,309.1,309.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="" ip="192.168.5.111" port="8212" remark="" />
+    <Item20 serial="20" id="下料带10" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="" ReadDevice="R" ReadAddressStar="262,266.5,269.5,272.5" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Write" WriteAddressStar="310.0,310.1,310.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="" ip="192.168.5.111" port="8215" remark="" />
+    <Item21 serial="21" id="下料带11" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="" ReadDevice="R" ReadAddressStar="263,266.6,269.6,272.6" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="Write" WriteAddressStar="311.0,311.1,311.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="" ip="192.168.5.111" port="8214" remark="" />
+    <Item22 serial="22" id="线尾(大饼)" workshop="010101" productionline="01010105" PLCserial="0" jitaihao="" ReadDevice="R" ReadAddressStar="252,266.3,268.3,271.3" ReadAddressSet="12,12,4,2,2,4,4,4,4,4,4,4,4,4" WriteDevice="LineEnd" WriteAddressStar="293.0,293.1,293.2" WriteAddressSet="8,8,6,2,6,2,6,2,16" MonitorBit="R240.1" ip="192.168.5.110" port="8203" remark="" />
+  </RFID>
+  <PLCAlarmTb SUM="2" AlarmNo="0" Tex="">
+    <Item0 serial="0" AlarmNo="0" Tex="正常" />
+    <Item1 serial="1" AlarmNo="1" Tex="故障" />
+  </PLCAlarmTb>
+</Root>

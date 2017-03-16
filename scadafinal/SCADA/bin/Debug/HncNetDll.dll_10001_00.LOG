@@ -1,0 +1,392 @@
+20160922 15:13:57:155 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20160922 15:13:57:186 [INFO] WinSocket Start Success, version=2.2
+20160922 15:13:57:186 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20160922 15:13:57:186 [WARN] Close UdpRecSocket, socket=-1
+20160922 15:13:57:186 [WARN] Close ListenSocket, socket=-1
+20160922 15:13:57:186 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20160922 16:21:13:313 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20160922 16:21:13:344 [INFO] WinSocket Start Success, version=2.2
+20160922 16:21:13:360 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20160922 16:21:13:360 [WARN] Close UdpRecSocket, socket=-1
+20160922 16:21:13:360 [WARN] Close ListenSocket, socket=-1
+20160922 16:21:13:360 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161020 10:27:30:795 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161020 10:27:30:826 [INFO] WinSocket Start Success, version=2.2
+20161020 10:27:30:826 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161020 10:27:30:826 [WARN] Close UdpRecSocket, socket=-1
+20161020 10:27:30:826 [WARN] Close ListenSocket, socket=-1
+20161020 10:27:30:826 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161020 10:32:10:501 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161020 10:32:10:548 [INFO] WinSocket Start Success, version=2.2
+20161020 10:32:10:548 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161020 10:32:10:548 [WARN] Close UdpRecSocket, socket=-1
+20161020 10:32:10:548 [WARN] Close ListenSocket, socket=-1
+20161020 10:32:10:548 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161020 11:12:12:275 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161020 11:12:12:322 [INFO] WinSocket Start Success, version=2.2
+20161020 11:12:12:322 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161020 11:12:12:322 [WARN] Close UdpRecSocket, socket=-1
+20161020 11:12:12:322 [WARN] Close ListenSocket, socket=-1
+20161020 11:12:12:322 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161020 11:13:54:174 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161020 11:13:54:206 [INFO] WinSocket Start Success, version=2.2
+20161020 11:13:54:206 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161020 11:13:54:206 [WARN] Close UdpRecSocket, socket=-1
+20161020 11:13:54:206 [WARN] Close ListenSocket, socket=-1
+20161020 11:13:54:221 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161025 11:05:38:146 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161025 11:05:38:178 [INFO] WinSocket Start Success, version=2.2
+20161025 11:05:38:178 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161025 11:05:38:178 [WARN] Close UdpRecSocket, socket=-1
+20161025 11:05:38:178 [WARN] Close ListenSocket, socket=-1
+20161025 11:05:38:183 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161025 11:07:49:902 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161025 11:07:49:930 [INFO] WinSocket Start Success, version=2.2
+20161025 11:07:49:930 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161025 11:07:49:930 [WARN] Close UdpRecSocket, socket=-1
+20161025 11:07:49:930 [WARN] Close ListenSocket, socket=-1
+20161025 11:07:49:936 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161101 13:49:08:095 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161101 13:49:08:133 [INFO] WinSocket Start Success, version=2.2
+20161101 13:49:08:134 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161101 13:49:08:134 [WARN] Close UdpRecSocket, socket=-1
+20161101 13:49:08:134 [WARN] Close ListenSocket, socket=-1
+20161101 13:49:08:138 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161101 15:27:03:325 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161101 15:27:03:356 [INFO] WinSocket Start Success, version=2.2
+20161101 15:27:03:356 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161101 15:27:03:356 [WARN] Close UdpRecSocket, socket=-1
+20161101 15:27:03:356 [WARN] Close ListenSocket, socket=-1
+20161101 15:27:03:372 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161101 15:28:24:079 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161101 15:28:24:110 [INFO] WinSocket Start Success, version=2.2
+20161101 15:28:24:110 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161101 15:28:24:110 [WARN] Close UdpRecSocket, socket=-1
+20161101 15:28:24:110 [WARN] Close ListenSocket, socket=-1
+20161101 15:28:24:110 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161101 15:32:13:603 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161101 15:32:13:619 [INFO] WinSocket Start Success, version=2.2
+20161101 15:32:13:619 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161101 15:32:13:619 [WARN] Close UdpRecSocket, socket=-1
+20161101 15:32:13:619 [WARN] Close ListenSocket, socket=-1
+20161101 15:32:13:635 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161101 15:37:37:746 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161101 15:37:37:777 [INFO] WinSocket Start Success, version=2.2
+20161101 15:37:37:777 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161101 15:37:37:777 [WARN] Close UdpRecSocket, socket=-1
+20161101 15:37:37:777 [WARN] Close ListenSocket, socket=-1
+20161101 15:37:37:777 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161101 15:38:56:325 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161101 15:38:56:356 [INFO] WinSocket Start Success, version=2.2
+20161101 15:38:56:356 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161101 15:38:56:356 [WARN] Close UdpRecSocket, socket=-1
+20161101 15:38:56:356 [WARN] Close ListenSocket, socket=-1
+20161101 15:38:56:356 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161101 15:42:17:702 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161101 15:42:17:718 [INFO] WinSocket Start Success, version=2.2
+20161101 15:42:17:718 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161101 15:42:17:718 [WARN] Close UdpRecSocket, socket=-1
+20161101 15:42:17:718 [WARN] Close ListenSocket, socket=-1
+20161101 15:42:17:718 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161101 16:01:02:982 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161101 16:01:03:013 [INFO] WinSocket Start Success, version=2.2
+20161101 16:01:03:013 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161101 16:01:03:013 [WARN] Close UdpRecSocket, socket=-1
+20161101 16:01:03:013 [WARN] Close ListenSocket, socket=-1
+20161101 16:01:03:013 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161101 16:03:14:767 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161101 16:03:14:798 [INFO] WinSocket Start Success, version=2.2
+20161101 16:03:14:798 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161101 16:03:14:798 [WARN] Close UdpRecSocket, socket=-1
+20161101 16:03:14:798 [WARN] Close ListenSocket, socket=-1
+20161101 16:03:14:798 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161101 16:41:49:850 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161101 16:41:49:888 [INFO] WinSocket Start Success, version=2.2
+20161101 16:41:49:888 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161101 16:41:49:888 [WARN] Close UdpRecSocket, socket=-1
+20161101 16:41:49:888 [WARN] Close ListenSocket, socket=-1
+20161101 16:41:49:892 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161101 16:50:24:776 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161101 16:50:24:810 [INFO] WinSocket Start Success, version=2.2
+20161101 16:50:24:810 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161101 16:50:24:810 [WARN] Close UdpRecSocket, socket=-1
+20161101 16:50:24:810 [WARN] Close ListenSocket, socket=-1
+20161101 16:50:24:815 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161101 16:52:01:482 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161101 16:52:01:512 [INFO] WinSocket Start Success, version=2.2
+20161101 16:52:01:512 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161101 16:52:01:512 [WARN] Close UdpRecSocket, socket=-1
+20161101 16:52:01:512 [WARN] Close ListenSocket, socket=-1
+20161101 16:52:01:516 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161102 08:47:27:183 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161102 08:47:27:230 [INFO] WinSocket Start Success, version=2.2
+20161102 08:47:27:230 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161102 08:47:27:230 [WARN] Close UdpRecSocket, socket=-1
+20161102 08:47:27:230 [WARN] Close ListenSocket, socket=-1
+20161102 08:47:27:230 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161102 08:50:06:881 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161102 08:50:06:912 [INFO] WinSocket Start Success, version=2.2
+20161102 08:50:06:912 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161102 08:50:06:912 [WARN] Close UdpRecSocket, socket=-1
+20161102 08:50:06:912 [WARN] Close ListenSocket, socket=-1
+20161102 08:50:06:912 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161102 11:20:50:515 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161102 11:20:50:562 [INFO] WinSocket Start Success, version=2.2
+20161102 11:20:50:562 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161102 11:20:50:562 [WARN] Close UdpRecSocket, socket=-1
+20161102 11:20:50:562 [WARN] Close ListenSocket, socket=-1
+20161102 11:20:50:562 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161103 08:34:49:434 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161103 08:34:49:465 [INFO] WinSocket Start Success, version=2.2
+20161103 08:34:49:465 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161103 08:34:49:465 [WARN] Close UdpRecSocket, socket=-1
+20161103 08:34:49:465 [WARN] Close ListenSocket, socket=-1
+20161103 08:34:49:465 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161103 08:52:26:368 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161103 08:52:26:399 [INFO] WinSocket Start Success, version=2.2
+20161103 08:52:26:399 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161103 08:52:26:399 [WARN] Close UdpRecSocket, socket=-1
+20161103 08:52:26:399 [WARN] Close ListenSocket, socket=-1
+20161103 08:52:26:399 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161103 08:58:23:131 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161103 08:58:23:163 [INFO] WinSocket Start Success, version=2.2
+20161103 08:58:23:163 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161103 08:58:23:163 [WARN] Close UdpRecSocket, socket=-1
+20161103 08:58:23:163 [WARN] Close ListenSocket, socket=-1
+20161103 08:58:23:163 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161103 09:00:30:415 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161103 09:00:30:462 [INFO] WinSocket Start Success, version=2.2
+20161103 09:00:30:462 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161103 09:00:30:462 [WARN] Close UdpRecSocket, socket=-1
+20161103 09:00:30:462 [WARN] Close ListenSocket, socket=-1
+20161103 09:00:30:462 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161103 10:07:26:113 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161103 10:07:26:128 [INFO] WinSocket Start Success, version=2.2
+20161103 10:07:26:128 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161103 10:07:26:128 [WARN] Close UdpRecSocket, socket=-1
+20161103 10:07:26:128 [WARN] Close ListenSocket, socket=-1
+20161103 10:07:26:128 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161103 10:08:53:732 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161103 10:08:53:764 [INFO] WinSocket Start Success, version=2.2
+20161103 10:08:53:764 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161103 10:08:53:764 [WARN] Close UdpRecSocket, socket=-1
+20161103 10:08:53:764 [WARN] Close ListenSocket, socket=-1
+20161103 10:08:53:764 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161103 10:10:23:074 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161103 10:10:23:090 [INFO] WinSocket Start Success, version=2.2
+20161103 10:10:23:090 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161103 10:10:23:090 [WARN] Close UdpRecSocket, socket=-1
+20161103 10:10:23:090 [WARN] Close ListenSocket, socket=-1
+20161103 10:10:23:105 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161103 10:20:35:829 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161103 10:20:35:861 [INFO] WinSocket Start Success, version=2.2
+20161103 10:20:35:861 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161103 10:20:35:861 [WARN] Close UdpRecSocket, socket=-1
+20161103 10:20:35:861 [WARN] Close ListenSocket, socket=-1
+20161103 10:20:35:861 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161103 13:13:04:209 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161103 13:13:04:240 [INFO] WinSocket Start Success, version=2.2
+20161103 13:13:04:240 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161103 13:13:04:240 [WARN] Close UdpRecSocket, socket=-1
+20161103 13:13:04:240 [WARN] Close ListenSocket, socket=-1
+20161103 13:13:04:240 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161103 13:17:04:378 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161103 13:17:04:409 [INFO] WinSocket Start Success, version=2.2
+20161103 13:17:04:409 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161103 13:17:04:409 [WARN] Close UdpRecSocket, socket=-1
+20161103 13:17:04:409 [WARN] Close ListenSocket, socket=-1
+20161103 13:17:04:409 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161103 13:17:40:414 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161103 13:17:40:445 [INFO] WinSocket Start Success, version=2.2
+20161103 13:17:40:445 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161103 13:17:40:445 [WARN] Close UdpRecSocket, socket=-1
+20161103 13:17:40:445 [WARN] Close ListenSocket, socket=-1
+20161103 13:17:40:445 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161103 13:19:22:892 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161103 13:19:22:908 [INFO] WinSocket Start Success, version=2.2
+20161103 13:19:22:908 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161103 13:19:22:908 [WARN] Close UdpRecSocket, socket=-1
+20161103 13:19:22:908 [WARN] Close ListenSocket, socket=-1
+20161103 13:19:22:923 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161103 13:21:08:009 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161103 13:21:08:040 [INFO] WinSocket Start Success, version=2.2
+20161103 13:21:08:040 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161103 13:21:08:040 [WARN] Close UdpRecSocket, socket=-1
+20161103 13:21:08:040 [WARN] Close ListenSocket, socket=-1
+20161103 13:21:08:040 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161103 15:20:31:206 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161103 15:20:31:221 [INFO] WinSocket Start Success, version=2.2
+20161103 15:20:31:221 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161103 15:20:31:221 [WARN] Close UdpRecSocket, socket=-1
+20161103 15:20:31:221 [WARN] Close ListenSocket, socket=-1
+20161103 15:20:31:237 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161104 08:21:03:475 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161104 08:21:03:537 [INFO] WinSocket Start Success, version=2.2
+20161104 08:21:03:537 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161104 08:21:03:537 [WARN] Close UdpRecSocket, socket=-1
+20161104 08:21:03:537 [WARN] Close ListenSocket, socket=-1
+20161104 08:21:03:537 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161104 08:55:51:168 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161104 08:55:51:207 [INFO] WinSocket Start Success, version=2.2
+20161104 08:55:51:207 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161104 08:55:51:207 [WARN] Close UdpRecSocket, socket=-1
+20161104 08:55:51:207 [WARN] Close ListenSocket, socket=-1
+20161104 08:55:51:210 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161104 09:23:03:424 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161104 09:23:03:450 [INFO] WinSocket Start Success, version=2.2
+20161104 09:23:03:450 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161104 09:23:03:450 [WARN] Close UdpRecSocket, socket=-1
+20161104 09:23:03:450 [WARN] Close ListenSocket, socket=-1
+20161104 09:23:03:455 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161104 10:10:45:546 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161104 10:10:45:587 [INFO] WinSocket Start Success, version=2.2
+20161104 10:10:45:587 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161104 10:10:45:587 [WARN] Close UdpRecSocket, socket=-1
+20161104 10:10:45:587 [WARN] Close ListenSocket, socket=-1
+20161104 10:10:45:591 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161128 16:17:28:559 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161128 16:17:28:575 [INFO] WinSocket Start Success, version=2.2
+20161128 16:17:28:575 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161128 16:17:28:575 [WARN] Close UdpRecSocket, socket=-1
+20161128 16:17:28:575 [WARN] Close ListenSocket, socket=-1
+20161128 16:17:28:590 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161129 08:31:47:488 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161129 08:31:47:524 [INFO] WinSocket Start Success, version=2.2
+20161129 08:31:47:525 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161129 08:31:47:525 [WARN] Close UdpRecSocket, socket=-1
+20161129 08:31:47:525 [WARN] Close ListenSocket, socket=-1
+20161129 08:31:47:530 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161206 09:08:30:734 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161206 09:08:30:765 [INFO] WinSocket Start Success, version=2.2
+20161206 09:08:30:765 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161206 09:08:30:765 [WARN] Close UdpRecSocket, socket=-1
+20161206 09:08:30:765 [WARN] Close ListenSocket, socket=-1
+20161206 09:08:30:765 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161206 09:24:39:453 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161206 09:24:39:484 [INFO] WinSocket Start Success, version=2.2
+20161206 09:24:39:484 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161206 09:24:39:484 [WARN] Close UdpRecSocket, socket=-1
+20161206 09:24:39:484 [WARN] Close ListenSocket, socket=-1
+20161206 09:24:39:484 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161206 10:06:19:565 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161206 10:06:19:606 [INFO] WinSocket Start Success, version=2.2
+20161206 10:06:19:606 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161206 10:06:19:606 [WARN] Close UdpRecSocket, socket=-1
+20161206 10:06:19:606 [WARN] Close ListenSocket, socket=-1
+20161206 10:06:19:611 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161206 10:19:10:859 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161206 10:19:10:894 [INFO] WinSocket Start Success, version=2.2
+20161206 10:19:10:894 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161206 10:19:10:894 [WARN] Close UdpRecSocket, socket=-1
+20161206 10:19:10:894 [WARN] Close ListenSocket, socket=-1
+20161206 10:19:10:898 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161207 08:56:27:247 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161207 08:56:27:278 [INFO] WinSocket Start Success, version=2.2
+20161207 08:56:27:278 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161207 08:56:27:278 [WARN] Close UdpRecSocket, socket=-1
+20161207 08:56:27:278 [WARN] Close ListenSocket, socket=-1
+20161207 08:56:27:278 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161207 10:02:26:919 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161207 10:02:26:944 [INFO] WinSocket Start Success, version=2.2
+20161207 10:02:26:945 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161207 10:02:26:945 [WARN] Close UdpRecSocket, socket=-1
+20161207 10:02:26:945 [WARN] Close ListenSocket, socket=-1
+20161207 10:02:26:949 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161207 10:18:18:386 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161207 10:18:18:413 [INFO] WinSocket Start Success, version=2.2
+20161207 10:18:18:414 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161207 10:18:18:414 [WARN] Close UdpRecSocket, socket=-1
+20161207 10:18:18:414 [WARN] Close ListenSocket, socket=-1
+20161207 10:18:18:418 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161207 16:20:09:596 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161207 16:20:09:632 [INFO] WinSocket Start Success, version=2.2
+20161207 16:20:09:633 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161207 16:20:09:633 [WARN] Close UdpRecSocket, socket=-1
+20161207 16:20:09:633 [WARN] Close ListenSocket, socket=-1
+20161207 16:20:09:637 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20161227 11:25:49:651 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20161227 11:25:49:686 [INFO] WinSocket Start Success, version=2.2
+20161227 11:25:49:686 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20161227 11:25:49:686 [WARN] Close UdpRecSocket, socket=-1
+20161227 11:25:49:686 [WARN] Close ListenSocket, socket=-1
+20161227 11:25:49:691 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20170116 10:39:46:405 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20170116 10:39:46:451 [INFO] WinSocket Start Success, version=2.2
+20170116 10:39:46:451 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20170116 10:39:46:451 [WARN] Close UdpRecSocket, socket=-1
+20170116 10:39:46:451 [WARN] Close ListenSocket, socket=-1
+20170116 10:39:46:451 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20170209 15:46:37:216 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20170209 15:46:37:263 [INFO] WinSocket Start Success, version=2.2
+20170209 15:46:37:263 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20170209 15:46:37:263 [WARN] Close UdpRecSocket, socket=-1
+20170209 15:46:37:263 [WARN] Close ListenSocket, socket=-1
+20170209 15:46:37:263 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20170220 16:06:01:022 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20170220 16:06:01:069 [INFO] WinSocket Start Success, version=2.2
+20170220 16:06:01:069 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20170220 16:06:01:069 [WARN] Close UdpRecSocket, socket=-1
+20170220 16:06:01:069 [WARN] Close ListenSocket, socket=-1
+20170220 16:06:01:069 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
+20170316 11:06:02:303 [INFO] *******************Call TCPInit, IP=192.168.4.100, ListenPort=10001*******************
+20170316 11:06:02:340 [INFO] WinSocket Start Success, version=2.2
+20170316 11:06:02:341 [ERRO] Create TCP Listen Socket failed errno:0, IP=192.168.4.100, Port=10001
+20170316 11:06:02:341 [WARN] Close UdpRecSocket, socket=-1
+20170316 11:06:02:341 [WARN] Close ListenSocket, socket=-1
+20170316 11:06:02:345 [ERRO] NetInit failed! ip = 192.168.4.100, port = 10001, ret = 1009
+
